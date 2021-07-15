@@ -1,0 +1,17 @@
+body {
+    /* Old browsers */
+    background-color: mediumslateblue;
+     }
+     h1{
+         color: #fff;
+         font-family: Geneva;
+     }
+     h2{
+         color: mediumblue;
+     }
+     p{
+         color:mintcream;
+     }
+     ul{
+         color:lightgray;
+         }
